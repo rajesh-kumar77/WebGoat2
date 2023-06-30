@@ -1,0 +1,10 @@
+/Users/jan/projects/workspace/WebGoat.NET/WebGoat/bin/DotNetGoat.pdb
+/Users/jan/projects/workspace/WebGoat.NET/WebGoat/bin/DotNetGoat.dll
+/Users/jan/projects/workspace/WebGoat.NET/WebGoat/obj/Debug/DotNetGoat.dll
+/Users/jan/projects/workspace/WebGoat.NET/WebGoat/obj/Debug/DotNetGoat.pdb
+/Users/jan/projects/workspace/WebGoat.NET/WebGoat/bin/mysql.data.dll
+/Users/jan/projects/workspace/WebGoat.NET/WebGoat/bin/mysql.data.entity.dll
+/Users/jan/projects/workspace/WebGoat.NET/WebGoat/bin/mysql.visualstudio.dll
+/Users/jan/projects/workspace/WebGoat.NET/WebGoat/bin/mysql.web.dll
+/Users/jan/projects/workspace/WebGoat.NET/WebGoat/bin/log4net.dll
+/Users/jan/projects/workspace/WebGoat.NET/WebGoat/bin/Mono.Data.Sqlite.dll
