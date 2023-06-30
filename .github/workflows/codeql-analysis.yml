@@ -85,7 +85,7 @@ jobs:
     needs: analyze
     steps:
       - name: Check out repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - uses: actions/download-artifact@v3
         with:
           name: codeql-results
