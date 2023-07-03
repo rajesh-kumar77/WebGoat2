@@ -1,6 +1,6 @@
 # See FortifyVulnerabilityExporter documentation for FoD connection settings and release selection
 
-export:
+export: 
   from: fod
   to: json.github.sast
 
