@@ -25,10 +25,10 @@ jobs:
           fod_password: ${{ secrets.FOD_PAT }}
           fod_release_id: ${{ secrets.FOD_RELEASE_ID }}
        - name: Archive code coverage results
-          uses: actions/upload-artifact@v3
-          with:
-            name: sarif-report
-            path: gh-fortify-sast.sarif
+         uses: actions/upload-artifact@v3
+         with:
+           name: sarif-report
+           path: gh-fortify-sast.sarif
 
        # Save results
        # Import Fortify SAST results to GitHub Security Code Scanning
